@@ -9,6 +9,6 @@ Noctilux - Dark minimalist theme
 1. In command line:
 ```bash
 cd .obsidian/themes
-git clone https://github.com/santiyounger/Wasp-Obsidian-Theme.git
+git clone https://github.com/rastgame/obsidian-Noctilux.git
 ```
 3. In Settings → Appearance → Themes select "Noctilux"
